@@ -1,2 +1,2 @@
 # Pierre-feuille-ciseau
-Procedural php code 
+Procedural and POO 
