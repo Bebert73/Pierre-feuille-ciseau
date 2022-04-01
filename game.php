@@ -3,9 +3,6 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<script type="text/javascript">
-
-</script>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/styles.css">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
